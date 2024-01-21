@@ -3,7 +3,7 @@
 ![joaogpd's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogpd)
 
 <!--
-**joaogpd/joaogpd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joaogpd/joaogpd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 Here are some ideas to get you started:
 
