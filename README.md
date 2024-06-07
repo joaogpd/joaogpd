@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-$\unicode[Inter]{x0041}$
+$\unicode[Inter; height: 100vh; z-index: -1; background-image: https://avatars.githubusercontent.com/u/101755823?v=4]{u0000}$
