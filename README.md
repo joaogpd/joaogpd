@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-\unicode[Inter]{x0041}
+$\unicode[Inter]{x0041}$
