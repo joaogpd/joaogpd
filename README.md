@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-$\unicode[Inter; color: red; height: 100vh]{x0041}$
+$\unicode[Inter; color: red; height: 100vh; z-index: -1]{x0041}$
