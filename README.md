@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-$\unicode{x0000}$
+$\unicode[Inter; color: red]{x0041}$
