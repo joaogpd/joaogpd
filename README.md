@@ -1,4 +1,4 @@
-![joaogpd's Stats](https://github-readme-stats.vercel.app/api?username=joaogpd&count_private=true)
+<!--![joaogpd's Stats](https://github-readme-stats.vercel.app/api?username=joaogpd&count_private=true)-->
 
 ![joaogpd's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogpd)
 
