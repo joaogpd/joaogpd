@@ -4,8 +4,7 @@ Computer Engineering undergraduate at **PUC-Rio** (9.3/10 GPA, inaugural **Funda
 
 - **Embedded & Research (`GistLab, PUC-Rio`):** 3+ years working on bare-metal MSP430 firmware, intermittent computing, energy harvesting, and fault-tolerant software architectures for constrained edge devices.
 - **Software & Data Engineering (`MIND, PUC-Rio`):** Built Python scraping pipelines (`Playwright`, `BeautifulSoup`), SQL/BigQuery feature datasets, and automated ML inference workflows (`scikit-learn`, `XGBoost`).
-- **Ongoing Thesis (TCC):** Evaluating radiation-induced hardware faults and time-bounded escalating recovery architectures for COTS CubeSat microcontrollers.
-- **Portfolio:** [joaogpd.github.io](https://joaogpd.github.io) ([Versão em Português](https://joaogpd.github.io/?lang=pt))
+- **Ongoing Thesis (TCC):** Evaluating fault tolerant programming, with a focus on radiation-induced hardware faults for COTS CubeSat microcontrollers.
 
 ---
 
